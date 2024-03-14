@@ -21,8 +21,6 @@ Welcome to the exciting world of adventure, travel, and tourism! 🌄🗺️
 
 📧 Get in Touch For inquiries, collaboration, or just to say hello, reach out to us at 📩 rpy9621@gmail.com.
 
-🌟 Portfolio Discover more of our fantastic projects at SwamiTheDev Portfolio. Your journey into the world of technology starts here
-
 📌 Hashtags : #Adventure #TravelAndTourism #Design #WebDevelopment #ExploreTheWorld #Wanderlust #Figma #Photoshop #HTML #CSS #JS #jQuery #Bootstrap #WebDesign #WebDev #ExploreWithUs #RealmeDesign #AdventureTime
 
 Thank you for being a part of the Realme Adventure Project! 🙌🌏✨
